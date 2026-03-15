@@ -1,11 +1,11 @@
-# 📊 Interactive Data Profiling Dashboard (Streamlit)
+# Interactive Data Profiling Dashboard (Streamlit)
 
 A fast, practical EDA and cleaning tool for CSV files.  
 It lets you explore distributions, correlations, outliers, and run a one-click **Clean: Pipeline** with sensible defaults and **selectable categorical imputation**.
 
 ---
 
-## ✨ Features
+## Features
 
 - **Multi‑CSV selection** from the current working directory
 - **EDA tabs**: Overview, Distribution, Data Quality, Correlation, Outliers, Pair Plot
@@ -29,7 +29,7 @@ It lets you explore distributions, correlations, outliers, and run a one-click *
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 1. **Install** dependencies (Streamlit, pandas, numpy, seaborn, matplotlib, scipy).  
 2. **Place your CSVs** in the app’s working directory.  
